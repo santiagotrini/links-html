@@ -11,6 +11,6 @@
  
 ## Jueguitos o ejercicios interactivos
 
-- [lo de HTML y CSS](https://freecodecamp.org)
+- [FreeCodeCamp: lo de HTML y CSS](https://freecodecamp.org)
 - [Juego para CSS Grid](https://cssgridgarden.com/)
 - [Juego para CSS Flexbox](https://flexboxfroggy.com/)
