@@ -1,5 +1,10 @@
 # Links para estudiar HTML y CSS
 
+## Emmet
+
+- [Web oficial](https://emmet.io)
+- [Machete](https://docs.emmet.io/cheat-sheet/)
+
 ## Cosas en MDN
 - [HTML Intro](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [Texto en HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
