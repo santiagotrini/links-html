@@ -19,3 +19,9 @@
 - [FreeCodeCamp: lo de HTML y CSS](https://freecodecamp.org)
 - [Juego para CSS Grid](https://cssgridgarden.com/)
 - [Juego para CSS Flexbox](https://flexboxfroggy.com/)
+
+## CSS Tricks (en inglés)
+
+- [Glosario de CSS](https://css-tricks.com/almanac/)
+- [Guia de Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Guia de Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
